@@ -31,18 +31,20 @@ Watch the Job page to track progress on your Spark Jobs.
 
 ## Building Docker Image
 
- * Fetch Python/Spark/Hail
-  Download the dependencies
+ * Fetch Python/Spark/Hail dependencies
+
   ```
   ./get_files.sh
   ```
 
  * Build Docker Image
+
    ```
    ./build-docker.sh
    ```
 
  * Run the image
+   
    ```
    ./run-docker.sh
    ```
