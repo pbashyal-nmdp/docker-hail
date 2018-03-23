@@ -33,9 +33,9 @@ Watch the Job page to track progress on your Spark Jobs.
 
  * Fetch Python/Spark/Hail dependencies
 
-  ```
-  ./get_files.sh
-  ```
+   ```
+   ./get_files.sh
+   ```
 
  * Build Docker Image
 
